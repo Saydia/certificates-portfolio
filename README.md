@@ -40,17 +40,6 @@ The purpose of this repository is to:
 
 ---
 
-## 📌 Repository Structure
-
-All documents are organized into clear folders for easy navigation:
-
-- `education/`
-- `training/`
-- `conferences/`
-- `awards/`
-
----
-
 ## 📫 Contact
 
 For verification or further details, please refer to my CV or professional profile.
