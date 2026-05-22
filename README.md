@@ -7,18 +7,18 @@ This repository contains my verified certificates and academic/professional achi
 ## 📁 Categories
 
 ### 🎓 Educational Certificates
-- SSC Certificate
-- HSC Certificate
-- BSc Degree Certificate & Transcripts
-- MSc Academic Records (if applicable)
-
+- SSC Certificate & Transcript
+- HSC Certificate & Transcript
+- BSc (Engg.) Certificate & Transcript
+- MSc (Engg.) Certificate & Transcript
+  
 ### 💻 Training & Workshops
-- AI / Machine Learning Training
-- Programming and Technical Workshops
-- Online Courses and Certifications
+- Programming Bootcamp Certificate
+- Graphic Design Training Certificate
+- Microsoft Office Training Certificate
 
 ### 🎤 Conferences & Research Activities
-- Conference Participation Certificates
+- 
 - Research Presentation Certificates
 - Workshop/Poster Presentation Certificates
 
