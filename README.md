@@ -18,9 +18,9 @@ This repository contains my verified certificates and academic/professional achi
 - Microsoft Office Training Certificate
 
 ### 🎤 Conferences & Research Activities
-- 
-- Research Presentation Certificates
-- Workshop/Poster Presentation Certificates
+- ECCT 2026 Conference Certificate
+- ICTIS 2026 Presentation Certificate
+- ICTIS 2026 Conference Certificate
 
 ### 🏆 Awards & Achievements
 - Academic Excellence Awards
