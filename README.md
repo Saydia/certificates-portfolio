@@ -23,9 +23,9 @@ This repository contains my verified certificates and academic/professional achi
 - ICTIS 2026 Conference Certificate
 
 ### 🏆 Awards & Achievements
-- Academic Excellence Awards
-- Competition Achievements (Hackathons, Olympiads, etc.)
-- Merit-Based Recognitions
+- Vice Chancellor's Award Certificate
+- Dean's Honor Award Certificate
+- Programming Contest Certificate
 
 ---
 
